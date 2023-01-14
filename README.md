@@ -12,9 +12,8 @@
 - ⚡ Fun fact **I love rock climbing, disc golf and the outdoors!**
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahstaz&show_icons=true&locale=en&layout=compact" alt="noahstaz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahstaz&show_icons=true&locale=en" alt="noahstaz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahstaz&show_icons=true&locale=en&layout=compact" alt="noahstaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahstaz&" alt="noahstaz" /></p>
 <h3 align="left">Connect with me:</h3>
