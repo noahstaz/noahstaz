@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noah Stasuik</h1>
 <h3 align="center">A passionate UBC Computer Science student with full-stack experience</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahstaz" alt="noahstaz" /></a> </p>
-
 - 🌱 I’m currently learning **C, Advanced Python, Terminal and Docker**
 
 - 👨‍💻 All of my projects are available at [https://noahstasuik.me/projects-grid-cards.html](https://noahstasuik.me/projects-grid-cards.html)
