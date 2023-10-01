@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Stasuik</h1>
 <h3 align="center">A passionate UBC Computer Science student with full-stack experience</h3>
 
-- 🌱 I’m currently learning **C, Advanced Java +  Intermediate Python, Terminal and Docker**
+- 🌱 I’m currently learning **SQL, C, Advanced Java +  Intermediate Python, Terminal and Docker**
 
 - 👨‍💻 All of my projects are available at [https://noahstasuik.me/projects-grid-cards.html](https://noahstasuik.me/projects-grid-cards.html)
 
