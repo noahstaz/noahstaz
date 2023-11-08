@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **SQL, C, Advanced Java +  Intermediate Python, Terminal and Docker**
 
-- 👨‍💻 All of my projects are available at [https://noahstasuik.me/projects-grid-cards.html](https://noahstasuik.me/projects-grid-cards.html)
+- 👨‍💻 All of my projects are available at [https://noahstasuik.com/projects-grid-cards.html](https://noahstasuik.com/projects-grid-cards.html)
 
 - 📫 How to reach me **noah.stasuik@gmail.com**
 
-- 📄 Know about my experiences [https://noahstasuik.me/cv.html](https://noahstasuik.me/cv.html)
+- 📄 Know about my experiences [https://noahstasuik.com/cv.html](https://noahstasuik.com/cv.html)
 
 - ⚡ Fun fact **I love rock climbing, disc golf and the outdoors!**
 
